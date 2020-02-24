@@ -5,7 +5,7 @@ Bayes Theorem (3Blue1Brown)
 https://www.youtube.com/watch?v=HZGCoVF3YvM
 
 Neural Networks in General (3Blue1Brown)
-https://www.youtube.com/watch?v=aircAruvnKk&t=1030s
+https://www.youtube.com/watch?v=aircAruvnKk
 
 Convolutional Neural Networks
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
