@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=aircAruvnKk
 
 Convolutional Neural Networks
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+Matrix Multiplication
+http://matrixmultiplication.xyz/
